@@ -55,9 +55,6 @@ Elemen HTML terdiri dari *tag* pembuka, kontennya, dan *tag* penutup.
 <tagname> Isi konten </tagname>
 ```
 
-> Beberapa elemen HTML tidak memiliki konten (seperti elemen <br>, <hr>, <img>). Elemen-elemen ini disebut **elemen kosong**. Elemen kosong tidak memiliki *tag* penutup
-> 
-
 Contoh Elemen HTML
 
 ```html
