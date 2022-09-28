@@ -41,11 +41,11 @@
 
 - <!DOCTYPE html> menyatakan bahwa kode HTML yang dibuat menggunakan versi HTML5
 - < html > menyatakan elemen akar dari halaman HTML
-- “<head>” berisi informasi meta tentang halaman HTML
-- <title> digunakan untuk membuat judul halaman HTML
-- <body> menyatakan badan HTML, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, *hyperlink*, tabel, *list*, dan lain-lain.
-- <h1> digunakan membuat judul besar
-- <p> digunakan untuk menyatakan paragraf
+- < head > berisi informasi meta tentang halaman HTML
+- < title > digunakan untuk membuat judul halaman HTML
+- < body > menyatakan badan HTML, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, *hyperlink*, tabel, *list*, dan lain-lain.
+- < h1 > digunakan membuat judul besar
+- < p > digunakan untuk menyatakan paragraf
 
 ## Elemen HTML
 
@@ -107,34 +107,34 @@ Contoh Atribut HTML
 
 ## *Tag* HTML Populer
 
-- <p>, digunakan untuk membuat paragraf
-- <h1> - <h6>, digunakan untuk membuat judul besar
-- <i> atau <em>, digunakan untuk membuat teks miring
-- <b> atau <strong>, digunakan untuk menebalkan teks
-- <a>, digunakan untuk membuat *hyperlink*
-- <hr>, digunakan untuk membuat garis pemisah horizontal
-- <img>, digunakan untuk memanggil gambar
-- <video>, digunakan untuk memanggil video
-- <table>, digunakan untuk membuat tabel
-- <form>, digunakan untuk membuat form
+- < p >, digunakan untuk membuat paragraf
+- < h1 > - < h6 >, digunakan untuk membuat judul besar
+- < i > atau < em >, digunakan untuk membuat teks miring
+- < b > atau < strong >, digunakan untuk menebalkan teks
+- < a >, digunakan untuk membuat *hyperlink*
+- < hr >, digunakan untuk membuat garis pemisah horizontal
+- < img >, digunakan untuk memanggil gambar
+- < video >, digunakan untuk memanggil video
+- < table >, digunakan untuk membuat tabel
+- < form >, digunakan untuk membuat form
 
 ## Elemen Semantik pada HTML
 
 - Elemen semantik adalah elemen yang memiliki arti.
 - Terdapat beberapa *tag* semantik yang dapat digunakan untuk mendefinisikan bagian yang berbeda dari halaman web
-    - <article>
-    - <aside>
-    - <details>
-    - <figcaption>
-    - <figure>
-    - <footer>
-    - <header>
-    - <main>
-    - <mark>
-    - <nav>
-    - <section>
-    - <summary>
-    - <time>
+    - < article >
+    - < aside >
+    - < details >
+    - < figcaption >
+    - < figure >
+    - < footer >
+    - < header >
+    - < main >
+    - < mark >
+    - < nav >
+    - < section >
+    - < summary >
+    - < time >
 - Kegunaan menggunakan elemen semantik adalah meningkatkan aksesibilitas, meningkatkan SEO, serta lebih mudah di-*maintain*
 
 ## Deploy HTML
