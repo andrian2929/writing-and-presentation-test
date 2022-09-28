@@ -40,8 +40,8 @@
 ```
 
 - <!DOCTYPE html> menyatakan bahwa kode HTML yang dibuat menggunakan versi HTML5
-- <title> menyatakan elemen akar dari halaman HTML
-- <head> berisi informasi meta tentang halaman HTML
+- “<html>” menyatakan elemen akar dari halaman HTML
+- “<head>” berisi informasi meta tentang halaman HTML
 - <title> digunakan untuk membuat judul halaman HTML
 - <body> menyatakan badan HTML, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, *hyperlink*, tabel, *list*, dan lain-lain.
 - <h1> digunakan membuat judul besar
