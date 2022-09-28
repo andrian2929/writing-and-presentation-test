@@ -107,7 +107,7 @@ Contoh Atribut HTML
 
 ## *Tag* HTML Populer
 
-- < p >, digunakan untuk membuat paragraf
+- &lt;p&gt;, digunakan untuk membuat paragraf
 - < h1 > - < h6 >, digunakan untuk membuat judul besar
 - < i > atau < em >, digunakan untuk membuat teks miring
 - < b > atau < strong >, digunakan untuk menebalkan teks
